@@ -1,4 +1,4 @@
-import Image
+from PIL import Image
 
 def encrypt_image(image_path, key):
   
@@ -55,4 +55,4 @@ def main():
     print("Image decrypted and saved as 'decrypted.png'.")
 
 if __name__ == "__main__":
-  main()
+  main() 
