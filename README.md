@@ -1,4 +1,4 @@
-##Caesar Cipher
+##Image Encryption
 
 ##Image Encryption and Decryption Tool
 This Python program provides a simple tool for encrypting and decrypting images using pixel manipulation techniques.
