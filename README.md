@@ -1,7 +1,9 @@
-#Image Encryption and Decryption Tool
+##Caesar Cipher
+
+##Image Encryption and Decryption Tool
 This Python program provides a simple tool for encrypting and decrypting images using pixel manipulation techniques.
 
-#Features
+##Features
 * Encrypts images using XOR or shifting operations on pixel values.
 * Decrypts images encrypted with the same method and key.
 * User-friendly interface for choosing encryption/decryption mode, image path, and key.
@@ -26,7 +28,7 @@ python image_encryption.py
 - Follow the prompts and provide the necessary information.
 - The program will process the image and save the encrypted/decrypted version with a suffix indicating the operation used.
 
-Example Usage
+##Example Usage
 Encrypting an image:
 
 Enter 'e' to encrypt or 'd' to decrypt: e
@@ -51,6 +53,6 @@ Enter your choice (1-2): 1
 Image decrypted and saved with suffix 'decrypted'.
 The encrypted image will be decrypted and saved as "decrypted.jpg".
 
-Limitations
+##Limitations
 This program offers a basic level of encryption and might not be suitable for highly sensitive data.
 It modifies pixel values, potentially affecting image quality. Consider working on a copy of the original image.
